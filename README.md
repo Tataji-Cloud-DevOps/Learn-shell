@@ -1,3 +1,3 @@
 # Learn-shell
 
-This repository is created to add all the bascis and learnings related to shell & bash scripting.g
+This repository is created to add all the bascis and learnings related to shell & bash scripting.

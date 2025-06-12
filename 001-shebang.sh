@@ -8,6 +8,7 @@
 # Anything that starts with # is referred as a comment in general.
 # Comments are just for the purpose of humans to make to more verbose.
 
+
 echo Welcome To Bash Scripting
 
 echo Line1

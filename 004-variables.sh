@@ -34,6 +34,10 @@ echo -e "Value of a is \e[32m $a \e[0m"   # it will print the values as green co
 
 echo -e "Value of b is \e[34m $b \e[0m"   # it will print the values as blue colour
 
+echo -e "Value of b is \e[46;34m $b \e[0m"   # it will print the text with a backGround color
+
+
+
 
 
 

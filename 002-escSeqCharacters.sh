@@ -10,4 +10,10 @@ echo Line2
 
 echo -e "Line3\nLine4"
 
-echo -e "Tataji\nSai\n Gollakoti"
+echo -e "Tataji\nSai\nGollakoti"
+
+echo -e "DevOps\tWith\tAWS"
+
+# Whenever you're using special characters , always enclose them in DOUBLE QUOTES
+# " "  : Double Quotes 
+# ' '  : Single Quotes

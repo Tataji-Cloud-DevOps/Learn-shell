@@ -26,15 +26,22 @@ echo b                              # it will print only b
 # $ is a special variable and this helps you in printing the value of the variable 
 # Using $ we can access the value of variable 
 
-echo "Value of a is $a"             # it will print like "value of a is 10"
+echo "Value of a is $a"                   # it will print like "value of a is 10"
 
-echo "Value of a is $b"             # it will print like "value of b is 1.5"
+echo "Value of a is $b"                   # it will print like "value of b is 1.5"
 
 echo -e "Value of a is \e[32m $a \e[0m"   # it will print the values as green colour
 
 echo -e "Value of b is \e[34m $b \e[0m"   # it will print the values as blue colour
 
-echo -e "Value of b is \e[46;34m $b \e[0m"   # it will print the text with a backGround color
+echo -e "Value of b is \e[46;34m $b \e[0m"  # it will print the text with a backGround color
+
+# Whenever you're using special variables, single quote is going to nullify the speciality of the special varaible
+echo ${a}
+echo $a 
+
+echo "${a}"
+echo '${a}'                               # Single quote is used to extract the powere of the variable
 
 
 

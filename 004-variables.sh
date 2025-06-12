@@ -32,6 +32,8 @@ echo "Value of a is $b"             # it will print like "value of b is 1.5"
 
 echo -e "Value of a is \e[32m $a \e[0m"   # it will print the values as green colour
 
+echo -e "Value of b is \e[34m $b \e[0m"   # it will print the values as blue colour
+
 
 
 

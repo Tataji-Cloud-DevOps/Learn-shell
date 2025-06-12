@@ -19,3 +19,5 @@ b=1.5                               # Hardcoding the values
 name=mike 
 
 echo a
+echo b
+echo c

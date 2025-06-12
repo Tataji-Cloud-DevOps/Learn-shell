@@ -17,3 +17,5 @@
 a=10                                # ( a is key and 10 is the value )
 b=1.5                               # Hardcoding the values 
 name=mike 
+
+echo a

@@ -10,4 +10,4 @@ echo Line2
 
 echo -e "Line3\nLine4"
 
-echo -e "Tataji\nSai\nGollakoti"
+echo  "Tataji\nSai\nGollakoti"

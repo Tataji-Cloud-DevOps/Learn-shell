@@ -14,7 +14,7 @@ echo -e "Tataji\nSai\nGollakoti"
 
 echo -e "DevOps\tWith\tAWS"
 
-echo -e "Tataji \t Gollakoti"
+echo -e "Tataji\tGollakoti"
 
 # Whenever you're using special characters , always enclose them in DOUBLE QUOTES
 # " "  : Double Quotes 

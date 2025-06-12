@@ -18,6 +18,19 @@ a=10                                # ( a is key and 10 is the value )
 b=1.5                               # Hardcoding the values 
 name=mike 
 
-echo a
-echo b
-echo c
+# How to access the variable ? 
+
+echo a                              # it will print only a
+echo b                              # it will print only b
+
+# $ is a special variable and this helps you in printing the value of the variable 
+# Using $ we can access the value of variable 
+
+echo "Value of a is $a"             # it will print like "value of a is 10"
+
+echo "Value of a is $b"             # it will print like "value of b is 1.5"
+
+
+
+
+

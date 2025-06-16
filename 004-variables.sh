@@ -41,7 +41,15 @@ echo ${a}
 echo $a 
 
 echo "${a}"
-echo '${a}'                               # Single quote is used to extract the powere of the variable
+echo '${a}'                               # Single quote is used to extract the power of the variable
+
+
+# Printing a variable, wher ethe value of it is not declared , what will happen ? It will print null.
+
+echo "The value of the variable d is ${d}"
+
+# rm -rf /data/prod/${APPDATA} ====> /data/prod/shipping # EX : APPDATA = Shipping (if we not declare the APPDATA as ahipping it will delete prod)
+# rm -rf /data/prod/${APPDATA} ====> /data/prod
 
 
 

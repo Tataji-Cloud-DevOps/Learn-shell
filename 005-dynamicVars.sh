@@ -14,7 +14,7 @@ echo "Todays date is $DATE"
 
 # echo "Script Executed By $EXEC"
 echo "Script Executed by $EXEC and from $DEPARTMENT"
-echo "Script Executed by $Tataji and from $DevOpsDEPARTMENT"
+
 
 
 

@@ -8,5 +8,3 @@ echo $?
 echo '$?'
 echo "Value of is $?" 
 echo 'Value of is $?'
-
-echo Value of a is $?

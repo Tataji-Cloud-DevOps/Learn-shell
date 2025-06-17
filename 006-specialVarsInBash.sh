@@ -26,7 +26,7 @@ echo "$TEAM is from $PROJECT Project"
 # ( You supply up to 9 arguments)
 
 
-echo $0     # prints the scriptName
+echo $0                                         # prints the scriptName
 echo "Number Of Arguments in script are $#"     # Prints the no of arguments used in the script 
 echo "Exit Status Of The Previous Command $?"   # Prints the exit code of the previous command 
 echo "Arguments In The Script Are $*"           # Prints all the arguments used in the script

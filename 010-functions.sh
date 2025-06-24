@@ -25,4 +25,24 @@ func
 
 echo "i can call one more time"
 
-func
+func                                # it will print twice
+
+
+# Functions play a very important role in keeping the code dry.
+
+# And one more syntax for the functions for meaningful
+
+stat() {
+    echo "Todays date is $(date +%F)"
+    echo "load average on the system is $(uptime)"
+    echo "Run Level Of The System is $(runlevel)"
+}
+
+echo "Today we are learning bash"
+# This is how we can call a function.
+
+stat 
+
+echo "I can call one more time"
+
+stat 

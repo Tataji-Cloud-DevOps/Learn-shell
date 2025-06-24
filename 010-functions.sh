@@ -24,3 +24,5 @@ echo "Today we are learning bash"
 func
 
 echo "i can call one more time"
+
+func

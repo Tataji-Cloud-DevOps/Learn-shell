@@ -46,3 +46,19 @@ stat
 echo "I can call one more time"
 
 stat 
+
+stat() {
+    echo "Tataji is a student"
+    echo "Present time in India"
+    echo "Run Level Of The System is $(runlevel)"
+}
+
+echo "Today we are learning bash"
+# This is how we can call a function.
+
+stat 
+
+echo "I can call one more time"
+
+stat 
+

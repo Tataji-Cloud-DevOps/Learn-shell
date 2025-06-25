@@ -19,7 +19,6 @@
 # ls -ltr    &> output.txt   # Redirects the output or error output.txt
 
 
-
 ## How inputs and outputs are categorized :
 
 #     1) Standard Output   ( Expected error less output )

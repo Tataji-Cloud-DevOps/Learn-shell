@@ -7,6 +7,6 @@
 #     2) While Loop      ( when you don't know how many time to be executed, we use this and while only runs if the condition is trye )
 
 
-for var in tataji pandu sai do
+for var in tataji pandu sai; do
     echo "Value is $var" 
 done 

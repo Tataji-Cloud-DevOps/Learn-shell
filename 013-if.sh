@@ -21,7 +21,7 @@ ACTION=$1
 # fi  
  
 
-Demo on else 
+#  Demo on else 
 if [ "$ACTION" = "start" ] ; then 
     echo -e "\e[32m Backed is starting \e[0m"
     exit 0
